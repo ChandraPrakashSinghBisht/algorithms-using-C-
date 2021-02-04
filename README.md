@@ -1,4 +1,4 @@
-# algorithms-using-C++
+# DS&algorithms-using-C++
 Implementing various Algorithm concepts using C and C++
 
 Hello.....
